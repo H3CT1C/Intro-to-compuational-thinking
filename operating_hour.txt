@@ -1,0 +1,5 @@
+Malay stall,0700,2200,Monday,Saturday,1200,1800
+Economical rice,0700,2200,Monday,Saturday,1200,1800
+Macdonalds,0700,2400,Monday,Sunday,1130,1800
+Drinks stall,0700,2200,Monday,Saturday,1330,1800
+Western food,1100,2200,Monday,Saturday,1200,1800

@@ -1,0 +1,38 @@
+{"Malay stall":{"Monday":{"mutton briyani":4.00,"beef rendang":6.00,"nasi lemak":6.00},\
+"Tuesday":{"mutton briyani":4.00,"beef rendang":6.00,"nasi lemak":6.00},\
+"Wednesday":{"mutton briyani":4.00,"beef rendang":6.00,"nasi lemak":6.00},\
+"Thursday":{"nasi baik":6.00,"power nasi lemak":10.00,"mee goreng":4.00},\
+"Friday":{"nasi baik":6.00,"power nasi lemak":10.00,"mee goreng":4.00},\
+"Saturday":{"nasi baik":6.00,"power nasi lemak":10.00,"mee goreng":4.00}},\
+
+"Economical rice":{"Monday":{"2 meat":4.00,"2 meat 1 vegetable":5.00,"3 vegetable":2.50},\
+"Tuesday":{"2 meat":4.00,"2 meat 1 vegetable":5.00,"3 vegetable":2.50},\
+"Wednesday":{"2 meat":4.00,"2 meat 1 vegetable":5.00,"3 vegetable":2.50},\
+"Thursday":{"2 meat":4.00,"2 meat 1 vegetable":5.00,"3 vegetable":2.50},\
+"Friday":{"2 meat":4.00,"2 meat 1 vegetable":5.00,"3 vegetable":2.50},\
+"Saturday":{"2 meat":4.00,"2 meat 1 vegetable":5.00,"3 vegetable":2.50}},\
+
+"Macdonalds":{"Monday":{"macchicken":2.00,"macspicy":3.00,"macwings":3.00},\
+"Tuesday":{"macchicken":2.00,"macspicy":3.00,"macwings":3.00},\
+"Wednesday":{"double cheeseburger":2.00,"macspicy":3.00,"macwings":3.00},\
+"Thursday":{"macflurry":2.50,"sundae ":2.00,"ice milo":1.50},\
+"Friday":{"macflurry":2.50,"sundae ":2.00,"ice milo":1.50},\
+"Saturday":{"macflurry":2.50,"sundae ":2.00,"ice milo":1.50},\
+"Sunday":{"mcajoy":3.00,"macpotluck":4.00,"bigmac":4.50}},\
+
+"Drinks stall":{"Monday":{"coke":1.40,"ice teh":1.50,"papaya":1.00},\
+"Tuesday":{"coke":1.40,"ice teh":1.50,"papaya":1.00},\
+"Wednesday":{"ice kopi":1.40,"ice teh":1.50,"papaya":1.00},\
+"Thursday":{"mango juice":1.50,"apple juice":1.50,"bubble tea":1.50},\
+"Friday":{"mango juice":1.50,"apple juice":1.50,"bubble tea":1.50},\
+"Saturday":{"mango juice":1.50,"apple juice":1.50,"bubble tea":1.50}},\
+
+"Western food":{"Monday":{"milkshake":3.00,"carbonara pasta":3.00,"salmon":6.00},\
+"Tuesday":{"milkshake":3.00,"carbonara pasta":3.00,"salmon":6.00},\
+"Wednesday":{"milkshake":3.00,"carbonara pasta":3.00,"salmon":6.00},\
+"Thursday":{"Dory fish":4.00,"Fish and chips":4.00,"pork chop":5.00},\
+"Friday":{"milkshake":3.00,"carbonara pasta":3.00,"salmon":6.00},\
+"Saturday":{"milkshake":3.00,"carbonara pasta":3.00,"salmon":6.00}}
+
+
+}

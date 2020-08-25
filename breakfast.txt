@@ -1,0 +1,30 @@
+{"Malay stall":\
+{"Monday":{"plain prata":1.20,"cheese prata":2.00,"teh tarik":1.20,"egg prata":2.00},\
+"Tuesday":{"plain prata":1.20,"cheese prata":2.00,"teh tarik":1.20,"egg prata":2.00},\
+"Wednesday":{"plain prata":1.20,"cheese prata":2.00,"teh tarik":1.20,"egg prata":2.00},\
+"Thursday":{"plain prata":1.40,"cheese prata":2.00,"thosai":3.00,"teh cino":2.00},\
+"Friday":{"plain prata":1.20,"egg prata":2.00,"murtabak":3.00,"ying yang":2.00},\
+"Saturday":{"plain prata":1.20,"egg prata":2.00,"paper prata":3.00,"milo dinosaur":2.00}},
+
+"Economical rice":{"Monday":{"porridge":1.00,"pork belly":1.00,"egg":0.50},\
+"Tuesday":{"porridge":1.00,"pork belly":1.00,"egg":0.50},\
+"Wednesday":{"porridge":1.00,"pork belly":1.00,"egg":0.50},\
+"Thursday":{"porridge":1.00,"pork belly":1.00,"egg":0.50},\
+"Friday":{"porridge":1.00,"pork belly":1.00,"egg":0.50},\
+"Saturday":{"porridge":1.00,"pork belly":1.00,"egg":0.50}},\
+
+"Macdonalds":{"Monday":{"Filet-o-fish":3.00,"Hashbrown":1.00,"Sausage mcmuffin":3.00},\
+"Tuesday":{"Filet-o-fish":3.00,"Hashbrown":1.00,"Sausage mcmuffin":3.00},\
+"Wednesday":{"Filet-o-fish":3.00,"Hashbrown":1.00,"Sausage mcmuffin":3.00},\
+"Thursday":{"Filet-o-fish":3.00,"Hashbrown":1.00,"Sausage mcmuffin":3.00},\
+"Friday":{"Filet-o-fish":3.00,"Hashbrown":1.00,"Sausage mcmuffin":3.00},\
+"Saturday":{"Filet-o-fish":3.00,"Hashbrown":1.00,"Sausage mcmuffin":3.00},\
+"Sunday":{"Filet-o-fish":3.00,"Hashbrown":1.00,"Sausage mcmuffin":3.00}},\
+
+"Drinks stall":{"Monday":{"Kaya toast":3.00,"Sausage bun":3.00,"Teh":2.00},\
+"Tuesday":{"Kaya toast":3.00,"Sausage bun":3.00,"Teh":2.00},\
+"Wednesday":{"Kaya toast":3.00,"Sausage bun":3.00,"Teh":2.00},\
+"Thursday":{"Kaya toast":3.00,"Sausage bun":3.00,"Teh":2.00},\
+"Friday":{"Kaya toast":3.00,"Sausage bun":3.00,"Teh":2.00},\
+"Saturday":{"Kaya toast":3.00,"Sausage bun":3.00,"Teh":2.00}}
+}
